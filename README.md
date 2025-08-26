@@ -18,6 +18,7 @@ This was a competnace based training with large percentage of time dedicated to 
 - Ojas Jha
 - Shohei Aoki
 - Joseph Matiko
-Our team was supported by the following Tutorial Assitants
+
+## Our team was supported by the following Tutorial Assitants
 - Debrupa Mondal
 - Yuzuki Kazato
